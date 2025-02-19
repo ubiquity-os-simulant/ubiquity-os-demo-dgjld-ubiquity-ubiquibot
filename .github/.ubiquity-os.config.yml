@@ -21,7 +21,7 @@ plugins:
       - plugin: "https://ubiquity-os-daemon-pricing-main.ubiquity.workers.dev"
         skipBotEvents: false
   - uses:
-      - plugin: "ubiquity-os-marketplace/text-conversation-rewards@main"
+      - plugin: "ubiquity-os-marketplace/text-conversation-rewards@demo"
         skipBotEvents: false
         with:
           incentives:
